@@ -1,4 +1,4 @@
-# integracion-grapgql-crud / integracion con graphql en flutter + vistas
+# integracion-grapgql-crud 
 
 ![login](https://github.com/kilworl/integracion-grapgql-crud/assets/76608943/72c2578e-0a37-44cf-bdea-549d3d82c90f)
 
